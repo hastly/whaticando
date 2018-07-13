@@ -1,0 +1,188 @@
+Kostyan Goncharou
+web development
+modern javascript, python, java
+10+ years exp.
+
+
+
+Together we can:
+==================================================================
+☐ Build a team of professionals that create software products up to the plan overcoming complex issues or avoiding them at all
+☐ Strengthen a development process with modern effective methodologies
+☐ Perform well developing parts of multitier micorservices powered web applications with up to date tooling and environments
+
+
+
+My work commitments:
+==================================================================
+☐ Software development management
+☐ Complex user interfaces for browser applications
+☐ Interaction of software systems components
+☐ Automation of the development and deployment of software products
+☐ Software development and deplozment automation
+☐ Analysis of data organized in a developed structure, efficient use of data warehouses
+☐ Code quality practice
+☐ Knowledge and skills growth in me and the surroundings
+
+
+
+My project records include:
+==================================================================
+☐ Instant moderation system for high-loaded top online news media
+(mostly backend)
+Front - SPA (React/Redux, ES2015, Webpack/Babel)
+Back - Python/Flask
+Main data storage - MongoDB cluster
+Aux data storage - PostgreSQL, MySQL
+Async process - Celery
+As well as: beanstalkd, redis, elasticSearch
+☐ Bank verification and payment systems integration for online digital currencies exchange
+(backend only)
+Front - Meteor
+Back - Python/Django
+Main data storage - MySQL, MongoDB
+Async process - Celery, RabbitMQ
+As well as: nginx, uwsgi, memcached
+☐ Application for advertisinbg display data acquisition and aggregation for internal use in video-on-demand provider
+(backend and frontend equally)
+App - Python/Django
+Data - MySQL для OLAP
+☐ Semantic tagging service extending enterprise microservices of major news agency
+(backend and frontend equally)
+Back - NodeJS
+Front - ExtJS
+Data - MongoDB
+
+
+
+I am happy to take my part in 2 major projects at my current place of work:
+==================================================================
+
+☐ National and international standards Development and publishing process automation system
+  ☐ Product features
+    ☐ Document development automation
+    ☐ Tree organization of standards
+    ☐ Responsible persons assignment and execution control
+    ☐ Standard stages monitoring and management
+  ☐ Distinctive features:
+    ☐ Integration with BPM process management component
+  ☐ Tech stack:
+    ☐ Java
+    ☐ Spring
+    ☐ ExtJS
+    ☐ PostgreSQL
+    ☐ Camunda
+    
+☐ Автоматизация управления проектной деятельностью "Российских железных дорог"
+  ☐ Product features
+    ☐ Contract management
+    ☐ Budget planning and monitoring
+    ☐ Responsible assignment and follow-up control
+    ☐ Work stages control
+    ☐ Analytics
+    ☐ Work demand management
+    ☐ Side unit integration
+    ☐ Collaboration tools
+  ☐ Distinctive features:
+    ☐ Developed role-based and context object and attributes access rules
+    ☐ Complex object relations and links due to complexity of business process
+    ☐ Dynamic views based on declarative rules forming according to user role and object state contexts
+    ☐ BPM integration
+    ☐ Project work, calendar and event plans subelements
+    ☐ Audit (every business object change)
+  ☐ Tech stack:
+    ☐ Java
+    ☐ Scala
+    ☐ Play
+    ☐ Sbt
+    ☐ Hibernate
+    ☐ Envers
+    ☐ MySQL
+    ☐ Camunda
+    ☐ Swagger
+    ☐ Backbone|Marionette
+    ☐ KendoUI
+    ☐ Angular
+    ☐ Gulp
+    ☐ Browserify
+    ☐ Webpack
+    ☐ CoffeeScript
+    ☐ TypeScript
+    ☐ SASS
+    ☐ Handlebars
+    ☐ Nginx
+
+
+
+Our current team uses the following collaboration tools:
+==================================================================
+
+  ☐ Redmine
+  ☐ TargetProcess
+  ☐ Git
+  ☐ Jenkins
+  ☐ Slack
+  
+
+
+Our current team includes:
+==================================================================
+  ☐ 2 backend developers
+  ☐ 2 frontend developers
+  ☐ 1 ux/ui designer
+  ☐ 1 QA engineer
+  
+
+
+As a team lead my duty is:
+==================================================================
+
+Plan new featureas implementation:
+  ☐ Technical requirements evaluation followed by decomposition into tasks hierarchy (epic, feature, user|tech story, end task)
+  (together with project analyst guy)
+  ☐ Initial man-hour and risks estimate coupled with novelty of an industrial design forecast
+  ☐ Low-level task detailization
+  ☐ Distribution of end-tasks priority according to parent tasks priorities
+  ☐ Dispatch tasks into the hands of responsible doers according to their load and competency
+  (together with developer team)
+  ☐ Calendar plan
+  ☐ Task accordance to project technical possibilites check
+  ☐ Requirements for UX/UI prototypes
+  (together with UX/UI guy)
+  ☐ UX/UI sketch adequacy check
+  ☐ Shortlisting of applicable architectural and algorithmic solutions
+  (together with developer team)
+  ☐ Timely developers notice on task changes
+
+Supervising:
+  ☐ Conduct status meetings, mutual development consulting
+  ☐ Code review
+  ☐ Motions to reduce discovered risks
+  ☐ Motions to compensate failures to meet the date
+  ☐ Team reports, collect personal reports, monitor due report submit
+  ☐ Revising developers decisions due to substantiate suspicions on their effectiveness and adequacy
+  
+Development process support:  
+  ☐ Documentation: APis, formats, taken steps, special conditions from business scope
+  ☐ Mark technical debt in tracker, in code and knowledge base
+  ☐ Nurturing of automatic documentation solutions
+  ☐ Maintenance and updates to inner server instances (staging, demo)
+  ☐ Spec for unit testing
+  ☐ Introduce into the project productive technologies
+  ☐ Methodology and tech process organization
+  ☐ Initiatives to make required optimization changes and record them in knowledge base
+
+Release and maintenance:
+  ☐ Compose changelist
+  ☐ Release turnaround
+  ☐ Git branches management
+  ☐ Retrospection to promote choices that lead to positive results and drive away negative 
+  ☐ On the spot engineer estimate of user bug reports and feature requests to plan them promptly resolving
+  ☐ Error root sources identification and registration to avoid them in future
+  ☐ Recover of corrupted and lost data
+
+Development:
+  ☐ Work on my developer tasks
+  ☐ Search and destroy bugs in all application tiers 
+  ☐ Application bundle configuration
+  ☐ Research and prototyping in order to select best components on the market
